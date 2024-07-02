@@ -6,13 +6,13 @@ from division import divide
 def main():
     print("Simple Calculator Program")
     
-    a = 10
-    b = 5
+    a = int(input("Enter a number"))
+    b = int(input("Enter another number"))
     
-    print(f"Addition of {a} and {b}: {add(a, b)}")
-    print(f"Subtraction of {a} and {b}: {subtract(a, b)}")
-    print(f"Multiplication of {a} and {b}: {multiply(a, b)}")
-    print(f"Division of {a} and {b}: {divide(a, b)}")
+    add(a, b)
+    subtract(a, b)
+    multiply(a, b)
+    divide(a, b)
 
 if __name__ == "__main__":
     main()
