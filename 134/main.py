@@ -12,7 +12,7 @@ def main():
     add(a, b) #This gives addition
     subtract(a, b) #This gives the subratction
     multiply(a, b) #This gives multiplication
-    divide(a, b) #This gives dividion
+    divide(a, b) #This gives dividionb
 
 if __name__ == "__main__":
     main()
