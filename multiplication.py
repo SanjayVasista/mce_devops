@@ -1,2 +1,2 @@
 def multiply(a, b):
-    return a * b
+    print("value after multiplying {a} and {b} is ",a * b)

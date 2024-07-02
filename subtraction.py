@@ -1,2 +1,2 @@
 def subtract(a, b):
-    return a - b
+    print("value after subratcing {a} and {b} is ",a - b)

@@ -9,10 +9,10 @@ def main():
     a = int(input("Enter a number"))
     b = int(input("Enter another number"))
     
-    add(a, b)
-    subtract(a, b)
-    multiply(a, b)
-    divide(a, b)
+    add(a, b) #This gives addition
+    subtract(a, b) #This gives the subratction
+    multiply(a, b) #This gives multiplication
+    divide(a, b) #This gives dividion
 
 if __name__ == "__main__":
     main()
