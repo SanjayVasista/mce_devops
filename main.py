@@ -6,10 +6,17 @@ from division import divide
 def main():
     print("Simple Calculator Program")
     
+
     a = 10
     b = 5
 
     #This is from main2
+
+
+    a = 3
+    b = 4
+    
+
     print(f"Addition of {a} and {b}: {add(a, b)}")
 
     
