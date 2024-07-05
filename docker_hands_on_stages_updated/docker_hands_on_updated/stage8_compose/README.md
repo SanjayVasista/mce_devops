@@ -1,3 +1,4 @@
+docker compose --help
 ## Docker Compose
 
 ### Concepts
